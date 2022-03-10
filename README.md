@@ -3,7 +3,7 @@
 ## xChips
 | Name | Decription | Logo | Image | Link |
 | -- | -- | :--:|  :--:| -- |
-| CWS | Core WiFi Standard |<img src="assets/CWS.svg" width=50> | |[GitHub](https://github.com/domino4com/CWS) |
+| CWS | Core WiFi Standard |<img src="assets/CWS.svg" width=50> | |<a href=https://github.com/domino4com/CWS><img src="assets/CWS.svg" width=50></a> |
 
 ## Kits
 
