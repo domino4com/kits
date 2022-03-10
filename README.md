@@ -1,7 +1,7 @@
 # Table of xChips
 
 ## xChips
-| Name | Decription | Logo | Image | Link |
+| Name | Decription | Logo | Image | Link | Starter Kit | Space kit |
 | -- | -- | :--:|  :--:| -- |
 | CWS | Core WiFi Standard |<img src="assets/CWS.svg" width=50> | |<a href=https://github.com/domino4com/CWS><img src="assets/github.svg" width=50></a> |
 | CWV | Core WiFi Vertebra |<img src="assets/CWS.svg" width=50> | |<a href=https://github.com/domino4com/CWV><img src="assets/github.svg" width=50></a> |
