@@ -1,26 +1,26 @@
 # Table of xChips
 
 ## xChips
-| Name | Decription | Logo | Image | Link | Starter Kit | Space kit |
-| -- | -- | :--:|  :--:| -- | :--:|:--:|
-| CWS | Core WiFi Standard |<img src="assets/CWS.svg" width=50> | <img src="assets/CWS.png" height=50>|<a href=https://github.com/domino4com/CWS><img src="assets/github.svg" width=50></a> | :heavy_check_mark: ||
-| CWV | Core WiFi Vertebra |<img src="assets/CWS.svg" width=50> | <img src="assets/CWV.png" height=50>|<a href=https://github.com/domino4com/CWV><img src="assets/github.svg" width=50></a> ||:heavy_check_mark:|
-| EBA | Extension Bus A - xChips Bus | <img src="assets/EXT.svg" width=50> | <img src="assets/EBA.png" height=50>|<a href=https://github.com/domino4com/EBA><img src="assets/github.svg" width=50></a> |||
-| EL4 | Extension LoRa 433MHz| <img src="assets/ELx.svg" width=50> | <img src="assets/ELx.png" height=50>|<a href=https://github.com/domino4com/ELx><img src="assets/github.svg" width=50></a> |||
-| EPA | Extension Prototype ADC | <img src="assets/EXT.svg" width=50> | <img src="assets/EPA.png" height=50>|<a href=https://github.com/domino4com/EPA><img src="assets/github.svg" width=50></a> ||:heavy_check_mark:|
-| EPB | Extension Prototype Bus | <img src="assets/EXT.svg" width=50> | <img src="assets/EPB.png" height=50>|<a href=https://github.com/domino4com/EPB><img src="assets/github.svg" width=50></a> ||:heavy_check_mark:|
-| IGA | Input Gas Air Quality |<img src="assets/IGA.svg" width=50> | <img src="assets/IGA.png" height=50>|<a href=https://github.com/domino4com/IGA><img src="assets/github.svg" width=50></a> |||
-| IIA | Input IMU Accelerometer |<img src="assets/IIA.svg" width=50> |<img src="assets/IIA.png" height=50> |<a href=https://github.com/domino4com/IIA><img src="assets/github.svg" width=50></a> |||
-| ILB | Input Light B - Ambient & UVI |<img src="assets/ILB.svg" width=50> | <img src="assets/ILB.png" height=50>|<a href=https://github.com/domino4com/ILB><img src="assets/github.svg" width=50></a> |:heavy_check_mark:||
-| INA | Input Navigation A - GPS & BeiDou |<img src="assets/INA.svg" width=50> |<img src="assets/INA.png" height=50> |<a href=https://github.com/domino4com/INA><img src="assets/github.svg" width=50></a> |||
-| IPB | Input Prototype Bus |<img src="assets/IP.svg" width=50> |<img src="assets/IPB.png" height=50> |<a href=https://github.com/domino4com/IPB><img src="assets/github.svg" width=50></a> |||
-| IPP | Input Prototype Prototype |<img src="assets/IP.svg" width=50> |<img src="assets/IPP.png" height=50> |<a href=https://github.com/domino4com/IPP><img src="assets/github.svg" width=50></a> |||
-| IWA | Input Weather A - Temperature & Humidity |<img src="assets/IWA.svg" width=50> |<img src="assets/IWA.png" height=50> |<a href=https://github.com/domino4com/IWA><img src="assets/github.svg" width=50></a> |:heavy_check_mark:||
-| IWB | Input Weather B - Barometer |<img src="assets/IWB.svg" width=50> | <img src="assets/IWB.png" height=50>|<a href=https://github.com/domino4com/IWB><img src="assets/github.svg" width=50></a> |||
-| IWC | Input Weather C - Soilmoisture |<img src="assets/IWC.svg" width=50> | <img src="assets/IWC.png" height=50>|<a href=https://github.com/domino4com/IWC><img src="assets/github.svg" width=50></a> |:heavy_check_mark:||
-| ODA | Output Display A |<img src="assets/ODA.svg" width=50> | <img src="assets/ODA.png" height=50>|<a href=https://github.com/domino4com/ODA><img src="assets/github.svg" width=50></a> |:heavy_check_mark:||
-| PLA | Power LiPo A |<img src="assets/PLA.svg" width=50> | <img src="assets/PLA.png" height=50>|<a href=https://github.com/domino4com/PLA><img src="assets/github.svg" width=50></a> |||
-| PPU | Power Programming USB |<img src="assets/PPU.svg" width=50> | <img src="assets/PPU.png" height=50>|<a href=https://github.com/domino4com/PPU><img src="assets/github.svg" width=50></a> |:heavy_check_mark:||
+| Name | Decription | Logo | Image  | Starter Kit | Space kit |
+| -- | -- | :--:|  :--:|  :--:|:--:|
+| [CWS](https://github.com/domino4com/CWS) | Standard Core|<img src="assets/CWS.svg" width=50> | <img src="assets/CWS.png" height=50>| :heavy_check_mark: ||
+| [CWV](https://github.com/domino4com/CWV) | Vertebra Core |<img src="assets/CWS.svg" width=50> | <img src="assets/CWV.png" height=50>||:heavy_check_mark:|
+| [EBA](https://github.com/domino4com/EBA) | Extension Slot / xChips Bus Interface | <img src="assets/EXT.svg" width=50> | <img src="assets/EBA.png" height=50>|||
+| [EL4](https://github.com/domino4com/ELx) | LoRa 433MHz| <img src="assets/ELx.svg" width=50> | <img src="assets/ELx.png" height=50>|||
+| [EPA](https://github.com/domino4com/EPA) | Extension Prototype ADC | <img src="assets/EXT.svg" width=50> | <img src="assets/EPA.png" height=50> ||:heavy_check_mark:|
+| [EPB](https://github.com/domino4com/EPB) | Extension Prototype Bus | <img src="assets/EXT.svg" width=50> | <img src="assets/EPB.png" height=50>||:heavy_check_mark:|
+| [IGA](https://github.com/domino4com/IGA) | Air Quality Sensor |<img src="assets/IGA.svg" width=50> | <img src="assets/IGA.png" height=50> |||
+| [IIA](https://github.com/domino4com/IIA) | Accelerometer |<img src="assets/IIA.svg" width=50> |<img src="assets/IIA.png" height=50>  |||
+| [ILB](https://github.com/domino4com/ILB) | Light Sensor |<img src="assets/ILB.svg" width=50> | <img src="assets/ILB.png" height=50> |:heavy_check_mark:||
+| [INA](https://github.com/domino4com/INA) | GNSS (GPS & BeiDou) |<img src="assets/INA.svg" width=50> |<img src="assets/INA.png" height=50>  |||
+| [IPB](https://github.com/domino4com/IPB) | xBus Prototype Bus |<img src="assets/IP.svg" width=50> |<img src="assets/IPB.png" height=50>  |||
+| [IPP](https://github.com/domino4com/IPP) | Large Prototype |<img src="assets/IP.svg" width=50> |<img src="assets/IPP.png" height=50>  |||
+| [IWA](https://github.com/domino4com/IWA) | Weather Sensor |<img src="assets/IWA.svg" width=50> |<img src="assets/IWA.png" height=50> |:heavy_check_mark:||
+| [IWB](https://github.com/domino4com/IWB) | Barometer |<img src="assets/IWB.svg" width=50> | <img src="assets/IWB.png" height=50> |||
+| [IWC](https://github.com/domino4com/IWC) | Soilmoisture Sensor|<img src="assets/IWC.svg" width=50> | <img src="assets/IWC.png" height=50> |:heavy_check_mark:||
+| [ODA](https://github.com/domino4com/ODA) | Display |<img src="assets/ODA.svg" width=50> | <img src="assets/ODA.png" height=50>|:heavy_check_mark:||
+| [PLA](https://github.com/domino4com/PLA) | Battery |<img src="assets/PLA.svg" width=50> | <img src="assets/PLA.png" height=50>|||
+| [PPU](https://github.com/domino4com/PPU) | Power & Programming |<img src="assets/PPU.svg" width=50> | <img src="assets/PPU.png" height=50>|:heavy_check_mark:||
 
 ## Kits
 
