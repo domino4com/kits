@@ -31,7 +31,13 @@
 | [PLA](https://github.com/domino4com/PLA) | Battery |1U|<img src="assets/PLA.svg" width=50> | <img src="assets/PLA.png" height=50>|:white_circle:|||||
 | [PPU](https://github.com/domino4com/PPU) | Power & Programming |1U|<img src="assets/PPU.svg" width=50> | <img src="assets/PPU.png" height=50>|:black_circle:|||||
 
-## Kits
+# Firmware Configurations
+When you run the provided firmware, you will have to choose between a number of configuration depending on how your collection of xChips are being utilized:
+- **Starter**: This is the starter kit. You need to start with this to get an understanding of the domino4.com eco-system.
+- **GS**: Balloon Ground Station: Together with the Flight Station (FS below), this creates a full balloon launch kit with radio communication between the balloon and the ground.
+- **FS**: Balloon Flight Station: This doesn't have to be flown with a balloon, but could be on a drone, on sounding rocket
+- **Space**
+- **Rocket** 
 
 # License: 
 <img src="assets/CC-BY-NC-SA.svg" width=200 align="right">
