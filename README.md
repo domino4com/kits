@@ -22,7 +22,7 @@
 | [IGA](https://github.com/domino4com/IGA) | Air Quality Sensor |1U|0x58|<img src="assets/IGA.svg" width=50> | <img src="assets/IGA.png" height=50>|:white_circle:|||||
 | [IIA](https://github.com/domino4com/IIA) | Accelerometer |1U|0x19/0x0F|<img src="assets/IIA.svg" width=50> |<img src="assets/IIA.png" height=50>|:white_circle:|||||
 | [ILB](https://github.com/domino4com/ILB) | Light Sensor |1U|0x53|<img src="assets/ILB.svg" width=50> | <img src="assets/ILB.png" height=50>|:black_circle:|||||
-| [INA](https://github.com/domino4com/INA) | GNSS (GPS & Glonass) |1U|0x20/0x21|<img src="assets/INA.svg" width=50> |<img src="assets/INA.png" height=50>||||||
+| [INA](https://github.com/domino4com/INA) | GNSS (GPS & Glonass) |1U|0x10|<img src="assets/INA.svg" width=50> |<img src="assets/INA.png" height=50>||||||
 | [IPB](https://github.com/domino4com/IPB) | xBus Prototype Bus |1U||<img src="assets/IP.svg" width=50> |<img src="assets/IPB.png" height=50>||||||
 | [IPP](https://github.com/domino4com/IPP) | Large Prototype |2x3U||<img src="assets/IP.svg" width=50> |<img src="assets/IPP.png" height=50>||||||
 | [IWA](https://github.com/domino4com/IWA) | Weather Sensor |1U|0x44/0x38|<img src="assets/IWA.svg" width=50> |<img src="assets/IWA.png" height=50>|:black_circle:|||||
