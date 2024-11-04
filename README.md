@@ -12,7 +12,7 @@
 
 | Name | Decription |Type|I<sup>2</sup>C | Logo | Image  | Starter | GS | FS | Space | Rocket 
 | -- | -- | :--:| :--:| :--:|  :--:|:--:|:--:| :--:|:--:| :--:|
-| [CWS](https://github.com/domino4com/CWS) | Standard Core|1U||<img src="assets/CWS.svg" width=50> | <img src="assets/CWS.png" height=50>|:black_circle:|||||
+| [CWA](https://github.com/domino4com/CWA) | Standard Core|1U||<img src="assets/CWS.svg" width=50> | <img src="assets/CWS.png" height=50>|:black_circle:|||||
 | [CWV](https://github.com/domino4com/CWV) | Extended Core|3U||<img src="assets/CWS.svg" width=50> | <img src="assets/CWV.png" height=50>||||||
 | [CWB](https://github.com/domino4com/CWB) | Battery Core|3U||<img src="assets/CWS.svg" width=50> | ||||||
 | [EBA](https://github.com/domino4com/EBA) | xChips Interface |E|| <img src="assets/EXT.svg" width=50> | <img src="assets/EBA.png" height=50>||||||
